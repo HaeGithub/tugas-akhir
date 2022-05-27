@@ -5,4 +5,4 @@ for nama_variable in $(cat for_loop.txt); do
     
 done
 
-echo "Silahkan kerjakan tugas akhir anada"
+echo "Silahkan kerjakan tugas akhir anda"
