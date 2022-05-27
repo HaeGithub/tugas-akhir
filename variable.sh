@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "Hello world"
+name="Haekal"
+job="Student"
+echo "$name as $job Sekolah At-Taaufiq"
